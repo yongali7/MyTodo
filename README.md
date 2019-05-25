@@ -1,2 +1,2 @@
 # MyTodo
-MyTodo App with react native
+MyTodo App with React Native
